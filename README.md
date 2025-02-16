@@ -64,7 +64,7 @@
 
 ## 📫 联系我
 - 📧 Email: 3479261099@qq.com
-- 📝 技术博客: [ljhboard.cn](https://ljhboard.cn)
+- 📝 技术博客: [ljhboard.cn](https://blog.ljhboard.cn)
 - 💻 GitHub: [@ljh12138164](https://github.com/ljh12138164)
 
 
