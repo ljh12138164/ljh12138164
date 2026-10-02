@@ -28,16 +28,6 @@
 | [Token Paper](https://token.ljhboard.cn) | 给大模型输入做分词、算 Token 数量和调用成本。 |
 | [今日热点](https://news.ljhboard.cn) | 把各平台的科技资讯和热搜榜放在一起。 |
 
-## `~/projects` · 开源里做过的事
-
-| 项目 | 我的贡献 | PR |
-| --- | --- | --- |
-| [Pro Components](https://github.com/ant-design/pro-components) | 修复 ProTable 嵌套列的显示联动，让选中子列时恢复父列显示。 | [#9226](https://github.com/ant-design/pro-components/pull/9226) · 已合并 |
-| [AutoForm](https://github.com/vantezzen/autoform) | 新增 Ant Design 支持，覆盖普通字段、嵌套对象和数组表单。 | [#145](https://github.com/vantezzen/autoform/pull/145) · 已合并 |
-| [RSSHub](https://github.com/DIYgod/RSSHub) | 提交 DeepSeek API 中英文更新日志的 RSS 路由，补充 Radar 规则、文档和解析测试。 | [#23259](https://github.com/DIYgod/RSSHub/pull/23259) · 提案 |
-
-<sub>状态与后续讨论见对应 PR。</sub>
-
 ## `~/notes` · 写过的文章
 
 - [项目接入 Umami 统计：基于 Vercel 与 Supabase 的零成本部署实践](https://blog.ljhboard.cn/posts/umami-vercel-supabase)
@@ -88,16 +78,6 @@
     <img src="./logo/Resend.webp" width="32" height="32" alt="Resend" title="Resend">
   </p>
 </details>
-
-## `~/activity` · 贡献贪吃蛇
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://self.ljhboard.cn/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://self.ljhboard.cn/snake-light.svg">
-  <img alt="ljh12138164 的 GitHub 贡献记录贪吃蛇动画" src="https://self.ljhboard.cn/snake-light.svg" width="830">
-</picture>
-
-<sub>图片与个人主页共用，每天更新。</sub>
 
 ---
 
