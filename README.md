@@ -9,51 +9,60 @@
 ## 🛠️ 技术栈
 
 ### 基础
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css&theme=dark)](https://skillicons.dev)
-![My Skills](./logo/tsx.webp)
+[![JavaScript、TypeScript、HTML、CSS](https://skillicons.dev/icons?i=javascript,typescript,html,css&theme=dark)](https://skillicons.dev)
+![TSX](./logo/tsx.webp)
 
 ### 框架
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,nuxt,tailwind,sass,less,styledcomponents&theme=dark)](https://skillicons.dev)
+[![React、Vue、Next.js、Astro、Nuxt.js、Tailwind CSS、Sass、Less、styled-components](https://skillicons.dev/icons?i=react,vue,nextjs,astro,nuxtjs,tailwind,sass,less,styledcomponents&theme=dark)](https://skillicons.dev)
+
+也用 Umi 开发前端应用，Nuxt.js 了解一些。
 
 ### react和vue的生态
-[![My Skills](https://skillicons.dev/icons?i=pinia&theme=dark)](https://skillicons.dev)
-![My Skills](./logo/react-query.webp)
-![My Skills](./logo/mobx.webp)
-![My Skills](./logo/echarts.webp)
-![My Skills](./logo/ant-design.webp)
-![My Skills](./logo/Shadcnui.webp)
-![My Skills](./logo/reactrouter.webp)
-![My Skills](./logo/react-hook-form.webp)
-![My Skills](./logo/zustand.png)
-![My Skills](./logo/zod.webp)
-![My Skills](./logo/nextra.webp)
-![My Skills](./logo/tansk.png)
-![My Skills](./logo/yjs.svg)
+[![Pinia](https://skillicons.dev/icons?i=pinia&theme=dark)](https://skillicons.dev)
+![TanStack Query](./logo/react-query.webp)
+![MobX](./logo/mobx.webp)
+![ECharts](./logo/echarts.webp)
+![Ant Design](./logo/ant-design.webp)
+![shadcn/ui](./logo/Shadcnui.webp)
+![React Router](./logo/reactrouter.webp)
+![React Hook Form](./logo/react-hook-form.webp)
+![Zustand](./logo/zustand.png)
+![Zod](./logo/zod.webp)
+![Nextra](./logo/nextra.webp)
+![TanStack](./logo/tansk.png)
+![Yjs](./logo/yjs.svg)
 
-### 工程化 
-[![My Skills](https://skillicons.dev/icons?i=rollupjs,vite,webpack,github,git,pnpm,npm,yarn&theme=dark)](https://skillicons.dev)
-![turborepo](./logo/turborepo.webp)
-![turbopack](./logo/turbopack.webp)
-![turbopack](./logo/LogosLighthouse.webp)
-![My Skills](./logo/Stylelint.webp)
-![My Skills](./logo/Biome.webp)
+### 工程化
+[![Rollup、Vite、Webpack、GitHub、GitHub Actions、Git、pnpm、npm、Yarn](https://skillicons.dev/icons?i=rollupjs,vite,webpack,github,githubactions,git,pnpm,npm,yarn&theme=dark)](https://skillicons.dev)
+![Rsbuild](./logo/rsbuild-logo.svg)
+![Turborepo](./logo/turborepo.webp)
+![Turbopack](./logo/turbopack.webp)
+![Lighthouse](./logo/LogosLighthouse.webp)
+![Stylelint](./logo/Stylelint.webp)
+![Biome](./logo/Biome.webp)
+
+构建工具还包括 Rspack；用 GitHub Actions 做 CI/CD。
 
 ### 后端相关
-[![My Skills](https://skillicons.dev/icons?i=supabase,vercel,nodejs&theme=dark)](https://skillicons.dev)
-![My Skills](./logo/hono.webp)
-![My Skills](./logo/socketIo.webp)
-![My Skills](./logo/gemini.webp)
-![My Skills](./logo/Resend.webp)
+[![Supabase、Vercel、Node.js](https://skillicons.dev/icons?i=supabase,vercel,nodejs&theme=dark)](https://skillicons.dev)
+![Hono](./logo/hono.webp)
+![Socket.IO](./logo/socketIo.webp)
+![Gemini](./logo/gemini.webp)
+![Resend](./logo/Resend.webp)
 
 
 ## 💪 专业技能
-- 🎨 前端框架：React、Vue.js、Next.js、Nuxt.js(了解)
-- 📱 响应式设计和移动端(h5)开发
-- 🔧 构建工具：Rspack、Vite、TurboPack、tsup、Webpack
-- 🎭 状态管理：Pinia、Zustand、Mobx
-- 📦 包管理：npm、yarn、pnpm
-- 🚀 性能优化：hightlight性能监控、加载优化
-- 🔄 CI/CD：vercel、github actions、render
+- 🎨 前端框架：React、Vue.js、Next.js、Astro、Umi；Nuxt.js 了解一些
+- 📱 响应式布局和移动端 H5 开发
+- 🔧 构建工具：Rspack、Rsbuild、Vite、Rollup、Turbopack、Webpack
+- 🎭 状态与数据管理：Pinia、Zustand、MobX、TanStack Query
+- 🧩 组件与表单：Ant Design、shadcn/ui、React Hook Form、Zod
+- 📊 数据可视化与协同：ECharts、Yjs
+- 🛠️ 工程工具：Turborepo、Biome、Stylelint
+- 📦 包管理：npm、Yarn、pnpm
+- 🚀 性能优化：性能监控、Lighthouse 审计、加载优化
+- ⚙️ 服务端：Node.js、Hono、Socket.IO、Supabase
+- 🔄 CI/CD：Vercel、GitHub Actions、Render
 - 📝 个人博客地址：https://blog.ljhboard.cn
 
 ## 🏆 常用语言
