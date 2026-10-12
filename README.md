@@ -78,8 +78,9 @@
 
 
 ## 🤝 开源贡献
-- 为 **AUTOFORM** 项目贡献了ant-design的样式
-- 编写自己的技术文档和教程
+- **[RSSHub](https://github.com/DIYgod/RSSHub)**：新增 DeepSeek API 更新日志 RSS 路由，支持中英文订阅（[PR #23527](https://github.com/DIYgod/RSSHub/pull/23527)，已合并）。
+- **[Ant Design Pro Components](https://github.com/ant-design/pro-components)**：修复取消嵌套列全选后，再勾选子列时表格不渲染的问题（[PR #9226](https://github.com/ant-design/pro-components/pull/9226)，已合并）。
+- **[AutoForm](https://github.com/vantezzen/autoform)**：新增 Ant Design 支持（[PR #145](https://github.com/vantezzen/autoform/pull/145)，已合并）。
 
 ---
 ⭐️ From [ljh12138164](https://github.com/ljh12138164)
